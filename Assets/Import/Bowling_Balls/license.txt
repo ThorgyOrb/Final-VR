@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bowling Balls
+* source:	https://sketchfab.com/3d-models/bowling-balls-0f296de865a644479e43b61a715b926d
+* author:	Kroko.blend (https://sketchfab.com/jaromir.ternavskiy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bowling Balls" (https://sketchfab.com/3d-models/bowling-balls-0f296de865a644479e43b61a715b926d) by Kroko.blend (https://sketchfab.com/jaromir.ternavskiy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bowling Lane
+* source:	https://sketchfab.com/3d-models/bowling-lane-b69132ec17b446efbd84ffd367ec6c4a
+* author:	Beleeth (https://sketchfab.com/Beleeth)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bowling Lane" (https://sketchfab.com/3d-models/bowling-lane-b69132ec17b446efbd84ffd367ec6c4a) by Beleeth (https://sketchfab.com/Beleeth) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
