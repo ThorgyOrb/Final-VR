@@ -121,5 +121,10 @@ public class images : MonoBehaviour
         SceneManager.LoadScene("Boliche");
     }
 
+      public void OpenGameBasketball()
+    {
+        SceneManager.LoadScene("Basketball");
+    }
+
 
 }
